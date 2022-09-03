@@ -1,0 +1,14 @@
+//
+// Created by junior1407 on 31/08/22.
+//
+
+#ifndef YETANOTHERGBEMU_CPUINSTRUCTION_H
+#define YETANOTHERGBEMU_CPUINSTRUCTION_H
+
+
+class CPUInstruction {
+
+};
+
+
+#endif //YETANOTHERGBEMU_CPUINSTRUCTION_H
